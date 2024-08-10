@@ -1,6 +1,8 @@
 # InterviewHacker AI: Master Interviews with AI-Powered Assistance
 
-<img width="314" alt="image" src="https://github.com/user-attachments/assets/70effb28-7ec2-4581-91a7-909e1bab90cc">
+[![InterviewHacker AI Logo](https://github.com/user-attachments/assets/70effb28-7ec2-4581-91a7-909e1bab90cc)][website]
+
+[website]: https://interviewhacker.ai?source=github
 
 Welcome to the official issue tracker for InterviewHacker AI - your intelligent companion for acing interviews and elevating your career!
 
@@ -36,12 +38,11 @@ InterviewHacker AI is a cutting-edge platform that leverages artificial intellig
 
 ## 🔗 Quick Links
 
-- [Official Website](https://interviewhacker.ai)
-- [Features](https://interviewhacker.ai#features)
-- [Pricing](https://interviewhacker.ai#pricing)
-- [FAQ](https://interviewhacker.ai#faq)
-- [Blog](https://interviewhacker.ai/blog)
-- [Success Stories](https://interviewhacker.ai/success-stories)
+- [Official Website](https://interviewhacker.ai?source=github)
+- [Features](https://interviewhacker.ai?source=github#features)
+- [Pricing](https://interviewhacker.ai?source=github#pricing)
+- [FAQ](https://interviewhacker.ai?source=github#faq)
+- [Success Stories](https://interviewhacker.ai/success-stories?source=github)
 
 ## 🤝 Contributing
 
@@ -66,7 +67,7 @@ InterviewHacker AI is a proprietary software. All rights reserved.
 
 ## 🚀 Getting Started
 
-1. Visit [InterviewHacker AI](https://interviewhacker.ai) and sign up for a free account.
+1. Visit [InterviewHacker AI][website] and sign up for a free account.
 2. Choose your focus area: job interviews, career advancement, or meeting skills.
 3. Complete your profile to receive personalized recommendations.
 4. Start with a practice interview or meeting simulation.
@@ -82,6 +83,6 @@ InterviewHacker AI is a proprietary software. All rights reserved.
 
 ---
 
-Ready to revolutionize your interview game? [Get started with InterviewHacker AI today!](https://interviewhacker.ai)
+Ready to revolutionize your interview game? [Get started with InterviewHacker AI today][website]
 
 Remember, your success story begins with the right preparation. Let InterviewHacker AI be your guide to professional excellence!
