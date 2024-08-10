@@ -20,6 +20,10 @@ InterviewHacker AI is a cutting-edge platform that leverages artificial intellig
 - 🎭 **Role-specific Interview Preparation**: Tailored practice for various job roles and industries.
 - 🌐 **Multi-language Support**: Practice interviews in multiple languages to expand your global opportunities.
 - 🤝 **Mock Interview Scenarios**: Simulate various interview types, including behavioral and technical interviews.
+- 🖥️ **Screen Sharing & Analysis**: Share your screen during mock interviews for real-time feedback on presentations or coding challenges.
+- 📸 **Screenshot Analysis**: Upload screenshots of your work for AI-powered critique and suggestions.
+- 🎓 **Continuous Learning**: Access a vast library of interview questions and best practices, updated regularly with AI insights.
+- 🤖 **AI-powered Interview Feedback**: Receive detailed, constructive feedback on your interview performance, including body language and tone analysis.
 
 ## 🌟 Why Choose InterviewHacker AI?
 
